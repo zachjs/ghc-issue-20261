@@ -1,0 +1,5 @@
+resolver: nightly-2021-08-23
+packages:
+    - .
+extra-deps:
+    - happy-1.20.0@sha256:f99e612b29d68d784d7e193943a13466f0923de69452a2585081491efed0436b,5709
